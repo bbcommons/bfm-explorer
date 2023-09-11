@@ -1,0 +1,1 @@
+requests pandas itables geopandas folium matplotlib mapclassify contextily wordcloud
