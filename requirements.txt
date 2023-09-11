@@ -1,1 +1,9 @@
-requests pandas itables geopandas folium matplotlib mapclassify contextily wordcloud
+requests
+pandas
+itables
+geopandas
+folium
+matplotlib
+mapclassify
+contextily
+wordcloud
